@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Essentials/sync/serverless-hello-world"
+	],
+	"file_history":
+	[
+		"/D/Programs/nodejs/node_modules/npm/npmrc",
+		"/D/Programs/nodejs/node_modules/npm/configure",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/models.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/permissions.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/serializers.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/views.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/urls.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/test/test_serializers.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/company/models.py",
+		"/D/Essentials/spot/mystorecrm-backend/.gitignore",
+		"/D/Essentials/spot/mystorecrm-backend/app/company/views.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/company/serializers.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/users/serializers.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/users/models.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/company/permissions.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/users/views.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/users/permissions.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/loyalty/utils.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/config/common.py",
+		"/D/Essentials/sync/vandainsights/templates/index.html",
+		"/D/Essentials/spot/mystorecrm-backend/app/company/utils.py",
+		"/D/Essentials/spot/mystorecrm-backend/app/config/local.py",
+		"/C/Users/Pranav/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TransactionInputSerializer",
+			"billmanagement",
+			"isverified",
+			"IsVerified",
+			"customer/phone",
+			"customer/",
+			"customer'",
+			"customer",
+			"customer/",
+			"Offer",
+			"customer",
+			"customerserializer",
+			"package",
+			"serializer",
+			"phone_number",
+			"GetPhoneNumber",
+			"customer/phone",
+			"phone",
+			"phone/",
+			"company/phone/",
+			"company/phone",
+			"company/phonee",
+			"getphonenumber",
+			"customerserializer",
+			"customerserializeer",
+			"GetPhoneNumberSerializer",
+			"GetPhoneNumber",
+			"customer/phone",
+			"Note",
+			"Cart",
+			"tra",
+			"Note",
+			"Cart",
+			"transaction",
+			"it",
+			"Transaction",
+			"miscellaneous",
+			"ite",
+			"miscellaneous",
+			"ite",
+			"Miscellaneous",
+			"item",
+			"cate",
+			"item",
+			"ca",
+			"Item",
+			"category",
+			"message",
+			"Category",
+			"message",
+			"Category",
+			"message",
+			"of",
+			"Message",
+			"Offer",
+			"Package",
+			"Offer",
+			"CompanyAwareModel",
+			"Package",
+			"customer",
+			".models",
+			"Customer",
+			".Customer",
+			" .Customer",
+			" Customer",
+			" .Customer",
+			".Customer",
+			"Customer",
+			"models.",
+			"models",
+			".models",
+			"company.models",
+			"company.model",
+			"models",
+			"company.models",
+			"cmodels",
+			"copyitems",
+			"items",
+			"moveitems",
+			"api/v1/moveitems/category/",
+			"CategorySerializer",
+			"CategoryViewSet",
+			"category",
+			"api/v1/category",
+			"api/v1/category\\",
+			"api/v1/category/",
+			"api/v1/category/ ",
+			"api/v1/company/edit/",
+			"CompanyDetailsView",
+			"changepassword",
+			"CompanyDetailsView",
+			"api/v1/company/",
+			"PasswordSerializer",
+			"ChangePasswordView",
+			"api/v1/password/reset/",
+			"GetPhoneNumberSerializer",
+			"UserForgotPasswordRequestView",
+			"api/v1/password/forgot/",
+			"company/edit",
+			"edit",
+			"edit/",
+			"edit",
+			"api/v1/company/edit",
+			"api/v1/company/edit/",
+			"CompanyDetailsView",
+			"api/v1/company/",
+			"pos/",
+			"/v1/pos/",
+			"/v1/pos",
+			"/v1/pos/ ",
+			"PosOperatorSerializer",
+			"PosOperator",
+			"api/v1/posoperator/",
+			"PhoneNumberSerializer",
+			"PosOperatorPasswordSend",
+			"api/v1/posregister/",
+			"CampaignSerializer",
+			"CampaignView",
+			"api/v1/customsms/",
+			"transactioninput",
+			"TransactionView",
+			"api/v1/customer",
+			"api/v1/customer/{customer_id}/transaction/",
+			"items",
+			"itmes",
+			"api/v1/",
+			"api/v1/items",
+			"api/v1/items/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "serverless.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Essentials\\sync\\mamaearth\\mamaearth.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
